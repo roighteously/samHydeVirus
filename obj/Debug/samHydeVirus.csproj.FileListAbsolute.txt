@@ -1,0 +1,13 @@
+C:\Users\aiden\Documents\Coding\samHydeVirus\bin\Debug\samHydeVirus.exe.config
+C:\Users\aiden\Documents\Coding\samHydeVirus\bin\Debug\samHydeVirus.exe
+C:\Users\aiden\Documents\Coding\samHydeVirus\bin\Debug\samHydeVirus.pdb
+C:\Users\aiden\Documents\Coding\samHydeVirus\obj\Debug\samHydeVirus.csproj.AssemblyReference.cache
+C:\Users\aiden\Documents\Coding\samHydeVirus\obj\Debug\samHydeVirus.csproj.SuggestedBindingRedirects.cache
+C:\Users\aiden\Documents\Coding\samHydeVirus\obj\Debug\samHydeVirus.Bootstrapper.resources
+C:\Users\aiden\Documents\Coding\samHydeVirus\obj\Debug\samHydeVirus.Form1.resources
+C:\Users\aiden\Documents\Coding\samHydeVirus\obj\Debug\samHydeVirus.Properties.Resources.resources
+C:\Users\aiden\Documents\Coding\samHydeVirus\obj\Debug\samHydeVirus.SamHax.resources
+C:\Users\aiden\Documents\Coding\samHydeVirus\obj\Debug\samHydeVirus.csproj.GenerateResource.cache
+C:\Users\aiden\Documents\Coding\samHydeVirus\obj\Debug\samHydeVirus.csproj.CoreCompileInputs.cache
+C:\Users\aiden\Documents\Coding\samHydeVirus\obj\Debug\samHydeVirus.exe
+C:\Users\aiden\Documents\Coding\samHydeVirus\obj\Debug\samHydeVirus.pdb

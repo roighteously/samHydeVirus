@@ -1,0 +1,13 @@
+C:\Users\aiden\Documents\Coding\samHydeVirus\obj\Release\samHydeVirus.csproj.AssemblyReference.cache
+C:\Users\aiden\Documents\Coding\samHydeVirus\obj\Release\samHydeVirus.csproj.SuggestedBindingRedirects.cache
+C:\Users\aiden\Documents\Coding\samHydeVirus\obj\Release\samHydeVirus.Form1.resources
+C:\Users\aiden\Documents\Coding\samHydeVirus\obj\Release\samHydeVirus.Properties.Resources.resources
+C:\Users\aiden\Documents\Coding\samHydeVirus\obj\Release\samHydeVirus.csproj.GenerateResource.cache
+C:\Users\aiden\Documents\Coding\samHydeVirus\obj\Release\samHydeVirus.csproj.CoreCompileInputs.cache
+C:\Users\aiden\Documents\Coding\samHydeVirus\obj\Release\samHydeVirus.SamHax.resources
+C:\Users\aiden\Documents\Coding\samHydeVirus\obj\Release\samHydeVirus.Bootstrapper.resources
+C:\Users\aiden\Documents\Coding\samHydeVirus\bin\Release\HalberdV1.exe.config
+C:\Users\aiden\Documents\Coding\samHydeVirus\bin\Release\HalberdV1.exe
+C:\Users\aiden\Documents\Coding\samHydeVirus\bin\Release\HalberdV1.pdb
+C:\Users\aiden\Documents\Coding\samHydeVirus\obj\Release\HalberdV1.exe
+C:\Users\aiden\Documents\Coding\samHydeVirus\obj\Release\HalberdV1.pdb
